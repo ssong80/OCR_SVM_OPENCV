@@ -1,2 +1,1 @@
-1. SVM(Support Vector Machine) 이란?
-===================================
+# 1. SVM(Support Vector Machine) 이란?
