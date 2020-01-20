@@ -9,7 +9,7 @@ SVM의 최적화 대상은 마진을 최대화 하는 것이다.
 머신 러닝 교과서 with 파이썬, 싸이킷런, 텐서플로 SVM 예제
 
 <cetnter>
-<img src="https://user-images.githubusercontent.com/13618791/72740511-2a38b680-3be9-11ea-9295-0f2223c0b8a2.png"></center>
+<img src="https://user-images.githubusercontent.com/13618791/72740511-2a38b680-3be9-11ea-9295-0f2223c0b8a2.png" width="30%" height="30%"></center>
 
 
 # 2. OpenCV를 이용한 SVM 구현
