@@ -61,5 +61,3 @@ plt.ylabel('patal width [standardized]')
 plt.legend(loc='upper left')
 plt.tight_layout()
 plt.show()
-
-update
