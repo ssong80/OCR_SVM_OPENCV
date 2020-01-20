@@ -4,7 +4,7 @@ SVM 알고리즘은 주어진 집합을 바탕으로 하여 새로운 데이터�
 <center><img src="https://user-images.githubusercontent.com/13618791/72733318-f5bdfe00-3bda-11ea-82e5-7b693cc9224a.png" width="20%" height="20%">  <img src="https://user-images.githubusercontent.com/13618791/72732810-e8ecda80-3bd9-11ea-9215-e379abf4fd18.png" width="20%" height="20%"></center>
 SVM의 최적화 대상은 마진을 최대화 하는 것이다.   
 마진은 클래스 구분을 하는 초평면(결정 경계)과 이 초평면에 가장 가까운 훈련 샘플 사이의 거리로 정의한다. 이런 샘플을 서포트 벡터(Support Vector)라고 한다.   
-
+   
 1.1 Sample Test   
 머신 러닝 교과서 with 파이썬, 싸이킷런, 텐서플로 SVM 예제
 
