@@ -62,14 +62,4 @@ plt.legend(loc='upper left')
 plt.tight_layout()
 plt.show()
 
-
-gggg
-
-
-ggggggg
-
-
-
-
-
-
+update
