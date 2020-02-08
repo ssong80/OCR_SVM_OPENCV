@@ -48,7 +48,7 @@ svm.setC(2.67)
 svm.setGamma(5.383)
 
 svm.train(trainData, cv2.ml.ROW_SAMPLE, responses)
-svm.save('svm_data.dat')
+svm.save('svm_data.json')
 
 deskewed = [list(map(deskew,row)) for row in test_cells]
 hogdata = [list(map(hog,row)) for row in deskewed]
